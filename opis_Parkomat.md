@@ -22,6 +22,7 @@ pozwalajace wpisać liczbe wrzucanych monet), oraz przyciskiem “Zatwierdz’.
   +Trzecia i kolejne godziny ptatne po 5 zł.
   
   +Czas wychodzacy poza obowiazywanie platnego parkowania przechodzi na kolejny dzien  
+  
       -Wykupienie godziny parkowania o 19:20 w pigtek pozwala na parkowanie do
         8:20 w poniedziatek (koniec 0 20:20, wychodzi 20 minut poza ptatne
         parkowanie, przechodzi na kolejny ptatny dzien).
