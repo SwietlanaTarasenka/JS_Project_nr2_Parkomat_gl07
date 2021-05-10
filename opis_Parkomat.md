@@ -1,6 +1,8 @@
 # JS_Project_nr2_Parkomat_gl07
 Temat projektu nr 2. Program, realizujący działanie parkomatu.
 
+Link: 
+
 Opis zadania.
 
 -Parkomat przechowuje informacje o monetach/banknotach znajdujacych sie w nim (1, 2, 5, 10, 20, 50gr, 1, 2, 5, 10, 20, 50 zł).
